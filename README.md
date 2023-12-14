@@ -1,5 +1,5 @@
 # MI GRAN RETO
-Procesar señales de los sistemas sensoriales cerebrales motores del cuerpo humano, para identificar alertas tempranas para enfermedades:
+Procesar señales de los sistemas sensoriales cerebrales motores del cuerpo humano, para identificar alertas tempranas para enfermedades como:
     Esclerosis lateral amiotrófica.
 		Parkinson.
 		Atrofia muscular.
